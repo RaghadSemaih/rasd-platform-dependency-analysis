@@ -41,46 +41,47 @@ Analyzing restaurant dependency on food delivery platforms is difficult because 
 
 ## Screenshots
 
-### 1. Dataset Upload and Restaurant Selection
+## Screenshots
 
-![Dataset Upload](screenshots/01-upload-page.png)
+### 1.Dataset Upload and Restaurant Selection
 
-### 2. Dashboard Overview
+![Dataset Upload](screenshots/upload-page.png)
 
-![Dashboard Overview](screenshots/02-dashboard-overview.png)
+### 2.Dashboard Overview
 
-### 3. Data Cleaning Report
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
-![Data Cleaning Report](screenshots/03-data-cleaning-report.png)
+### 3.Data Cleaning Report
 
-### 4. Activity Gap Details
+![Data Cleaning Report](screenshots/data-cleaning-report.png)
 
-![Activity Gap Details](screenshots/04-activity-gap.png)
+### 4.Activity Gap Details
 
-### 5. Analysis Summary
+![Activity Gap Details](screenshots/activity-gap.png)
 
-![Analysis Summary](screenshots/05-analysis-summary.png)
+### 5.Analysis Summary
 
-### 6. Estimated vs Registered Workers Comparison
+![Analysis Summary](screenshots/analysis-summary.png)
 
-![Workers Comparison](screenshots/06-workers-comparison.png)
+### 6.Estimated vs Registered Workers Comparison
 
-### 7. Digital Activity Score Comparison
+![Workers Comparison](screenshots/workers-comparison.png)
 
-![Digital Activity Score](screenshots/07-digital-activity-score.png)
+### 7.Digital Activity Score Comparison
 
-### 8. Registration Gap Comparison
+![Digital Activity Score](screenshots/digital-activity-score.png)
 
-![Registration Gap](screenshots/08-registration-gap.png)
+### 8.Registration Gap Comparison
 
-### 9. Restaurants Comparison Table
+![Registration Gap](screenshots/registration-gap.png)
 
-![Restaurants Comparison Table](screenshots/09-restaurants-comparison-table.png)
+### 9.Restaurants Comparison Table
 
-### 10. Analysis History
+![Restaurants Comparison Table](screenshots/restaurants-comparison-table.png)
 
-![Analysis History](screenshots/10-analysis-history.png)
+### 10.Analysis History
 
+![Analysis History](screenshots/analysis-history.png)
 ---
 
 ## Dataset
