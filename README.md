@@ -1,7 +1,3 @@
-## Problem Statement
-
-Analyzing restaurant dependency on food delivery platforms is difficult because valuable insights are scattered across large datasets of customer reviews and images. Manual analysis is time-consuming and inefficient, making it challenging to generate reliable business insights.
-
 # rasd-platform-dependency-analysis
 
 Rasd is a Flask-based web application that analyzes restaurant datasets to estimate their dependency on digital food delivery platforms. The system processes uploaded datasets, analyzes customer reviews and restaurant images, generates business indicators, and presents the results through an interactive dashboard.
@@ -10,7 +6,7 @@ Rasd is a Flask-based web application that analyzes restaurant datasets to estim
 
 ## Problem Statement
 
-Manually analyzing restaurant reviews and images to measure dependency on food delivery platforms is time-consuming and inefficient, especially when working with large datasets.
+Analyzing restaurant dependency on food delivery platforms is difficult because valuable insights are scattered across large datasets of customer reviews and images. Manual analysis is time-consuming and inefficient, making it challenging to generate reliable business insights.
 
 ---
 
