@@ -36,6 +36,9 @@ Analyzing restaurant dependency on food delivery platforms is difficult because 
 * HTML
 * Chart.js
 * Google Gemini API
+* Apify
+* SerpApi
+
 
 ---
 
